@@ -5,6 +5,5 @@ imutils
 #https://download.pytorch.org/whl/cu100/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
 #https://download.pytorch.org/whl/torch_stable.html/cu90/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
 torchvision
-pytorch
-torchvision
-torchaudio
+pytorch-cpu
+#torchaudio
